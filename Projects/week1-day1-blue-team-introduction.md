@@ -1,4 +1,5 @@
 Training Log: SOC Level 1 (TryHackMe) Date: 31/12/2025
+
 Topic: Introduction to Blue Teaming & SOC Operations
 
 🔹 Session Overview Today’s focus was the “First Step into SOC / Blue Team Introduction” module.
